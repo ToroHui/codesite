@@ -1,0 +1,4508 @@
+[
+  {
+    "id": 3613762735567468318,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot001基于SpringBoot的在线拍卖系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2843792976032331292,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot002基于springboot的医护人员排班系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8153150499953548466,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot003图书个性化推荐系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4523345614319952348,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot004网页时装购物系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2273709596131554076,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot005学生心理咨询评估系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4311349411127277384,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot006基于SpringBoot的网上订餐系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6932479993676887954,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot007大学生租房平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 96890528203185045,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot008房屋租赁系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2872232621637128308,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot009月度员工绩效考核管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4598129646445356593,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot010大学生入学审核系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7434337757976863496,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot011基于springboot的课程作业管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1015045251625723083,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot012基于springboot的社区团购系统设计",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8735800022815461114,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot013基于SpringBoot的旅游网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5415111865417864960,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot014校园管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7513516079293761250,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot015基于SpringBoot的在线视频教育平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1489055222361484860,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot016房产销售系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8491206249266036098,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "Springboot017学生读书笔记共享",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3487641289077890156,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot018母婴商城",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5451768098858569186,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot019高校心理教育辅导设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4335372264608681521,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot020基于Java的免税商品优选购物商城设计与实现代码",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6284631561471991105,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot021校园周边美食探索及分享平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3359909843552077354,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot022蜗牛兼职网的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5191445399578455077,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot023学生宿舍管理系统的设计与开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1373113827043956727,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot024基于SpringBoot的企业客户管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5481314269212733850,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot025基于SpringBoot网上超市的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1572146288491225873,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot026基于SpringBoot的在线文档管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6005564871315835670,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot027网上点餐系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 9164495515905710028,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot028基于springboot的房屋租赁系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1158579454721971119,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot029基于springboot的网上购物商城系统研发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1169897673395901134,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot030甘肃非物质文化网站的设计与开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1408290753278060113,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot031教师工作量管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3269187787046054076,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot032阿博图书馆管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4078181514646284108,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot033小徐影城管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7523698359966182450,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot034在线商城系统设计与开发-代码",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5009020329494813494,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot035学科竞赛管理",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4131511641963804549,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot036海滨体育馆管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4709824202810483272,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot037基于SpringBoot的墙绘产品展示交易平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4841621942301238245,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot038基于SpringBoot的网上租赁系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4990056710391444411,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot039基于Web足球青训俱乐部管理后台系统开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5517203592034529448,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot040社区医院信息平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3469072381818493307,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot041师生健康信息管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8518579163273136420,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot042IT技术交流和分享平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4544096812073488341,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot043基于springboot的“衣依”服装销售平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8272373138629947081,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot044美容院管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -874592023588014078,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot045新闻推荐系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5845498710164885303,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot046古典舞在线交流平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4561412371195036881,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot047大学生就业招聘系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7180399356757697891,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot048校园资料分享平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4960371381116042007,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot049在线教育系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8190905164240793502,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot050星之语明星周边产品销售网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3416524015809624804,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot051医院管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4626938448400080385,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot052旅游管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7674565063787932347,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot053宠物咖啡馆平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6512601316973576216,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot054飘香水果购物网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6687475543198670109,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot055服装生产管理的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 272710307910573062,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot056教学资源库",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 381948938152029717,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot057洗衣店订单管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3269267219457740797,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot058美发门店管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3174684236600667540,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot059课程答疑系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -655124393680497814,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot060师生共评的作业管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -9183593926475849451,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot061基于B2B平台的医疗病历交互系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7221072870075406010,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot062购物推荐网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1872062072580458108,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot063知识管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2884473585869089575,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot064高校学科竞赛平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8387789432488183091,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot065基于智能推荐的卫生健康系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -559024388008170392,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot066人事系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7924884468055486665,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot067中小型医院网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2019212678006445011,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot068桂林旅游景点导游平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6659690777712956168,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot069视频网站系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6065107907272956186,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot070基于springboot的大创管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8098550296714794415,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot071基于springboot的图书进销存管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2036203716969772921,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot072基于JavaWeb技术的在线考试系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6505808637579812016,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot073车辆管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1857656390154939100,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot074智能物流管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5227192379958787012,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot075电影评论网站系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4539784012777031856,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot076基于web的智慧社区设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8098095485283952796,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot077基于SpringBoot的汽车票网上预订系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4031386040225232325,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot078民宿在线预定平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2159391318463302594,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot079信息化在线教学平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4578612084225037730,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot080房屋租赁管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1001877975641832481,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot082在线宠物用品交易网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3807981200453683232,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot084基于springboot的论坛网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6163439209141633480,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot086靓车汽车销售网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2803482451658569610,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot087植物健康系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3186664408452982183,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot089学生评奖评优管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4284182472228052465,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot090中小企业设备管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2946297526618396301,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot092安康旅游网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2069481185970765859,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot094基于web的酒店客房管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3455421443882227081,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot095学生宿舍信息的系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2742652769077027012,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot096基于springboot的租房管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7161298538627153393,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot097大学生竞赛管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5848581163218343819,
+    "category": "01-92套-21-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot098基于web的网上摄影工作室的开发与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6389154301467734664,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot091创新创业教育中心项目申报管理系统a",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5424089622274649510,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot093基于springboot的厨艺交流平台的设计与实现代码",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4992205521715033869,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot099大型商场应急预案管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7811656836052772787,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot100精准扶贫管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7034903861842702586,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot101校园社团信息管理",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7054440219782410211,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot102基于web的音乐网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5618618900422009109,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot103抗疫物资管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6219662589068439299,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot104学生网上请假系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8243411481437678536,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot105基于保信息学科平台系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4764637930031267170,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot106大学城水电管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 9147260808824191906,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot107海滨学院班级回忆录的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7350371586783959444,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot108精品在线试题库系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3434096582673436082,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot109新闻稿件管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3803976451672604405,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot110作业管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1041887990109945691,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot111在线教育系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1785176846770074816,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot112基于Spring Boot技术的卓越导师双选系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 37317419166456620,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot113健身房管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5897607851134629408,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot114基于多维分类的知识管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5218671068653618743,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot115城镇保障性住房管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1272288474797742411,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot116基于java的教学辅助平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5867638172511971822,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot117基于SpringBoot的企业资产管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1353642317198752112,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot118共享汽车管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7540075481682136326,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot119基于工程教育认证的计算机课程管理平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6576837541469779695,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot120企业级工位管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3920835390504385192,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot121编程训练系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6168344394408469062,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot123基于springboot框架的网上商城系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7085632712258191516,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot124中药实验管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4802466827170310734,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot125汽车资讯网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2864906948361622129,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot126疫情下图书馆管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3052967132920487295,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot127基于Springboot技术的实验室管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2730088412267312953,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot128中小企业人事管理系统代码",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8814275857729981108,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot129学生选课系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1702731670043418353,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot130社团管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4752252993666191903,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot131企业oa管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1793006562687040259,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot132公司日常考勤系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4717559300696617194,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot133在线课程管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7356657021194013771,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot134英语知识应用网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4867541843302525281,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot135林业产品推荐系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -710361667375320426,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot136人口老龄化社区服务与管理平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1603434346190494528,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot137欢迪迈手机商城设计与开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5448744918660540554,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot138宠物领养系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1397496739485053970,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot139华强北商城二手手机管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5342193154490482979,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot140体育馆使用预约平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8619948195322116545,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot141夕阳红公寓管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8187319561974495240,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot142新冠病毒密接者跟踪系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7839034309677746901,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot143基于SpringBoot的在线家具商城设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7599959748988328367,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot144基于mvc的高校办公室行政事务管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3492943670102130650,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot145基于java的在线问卷调查系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5680748020593817261,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot146基于Spring Boot的可盈保险合同管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6563675884136521561,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot147校园失物招领系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1800320550001244090,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot148江理工文档管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -207111209341146020,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot149智慧图书管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6630592476731292533,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot150基于springboot的贸易行业crm系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -475077851024736483,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot151基于web的人力资源管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7937719947676176985,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot152基于springboot的的学生干部管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 516463349210081001,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot153相亲网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2452569845127057734,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot154基于Spring Boot智能无人仓库管理",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6353297618983730970,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot155基于JAVA语言的在线考试与学习交流网页平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6232734342103694567,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot156基于SpringBoot+Vue的常规应急物资管理系统",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7592761749399694712,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot157基于springboot的线上辅导班系统的开发与设计",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4934360490107804510,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot158基于springboot的医院资源管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4519978552844585849,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot159基于springboot框架开发的景区民宿预约系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3162718038517360634,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot160社区智慧养老监护管理平台设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1957240550714231579,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot161基于springboot的公交线路查询系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8659236635811205665,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot162基于SpringBoot的体育馆管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2255173476628197251,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot163美食推荐商城的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5283444041609954170,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot164党员教育和管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1727764147353240661,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot165科研工作量管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5825438808487494373,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot166基于spring boot的纺织品企业财务管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2768950761400056730,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot167基于springboot的医院后台管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -866683398468934436,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot168基于springboot + vue的疫情隔离管理系统",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -9035568818404842704,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot169基于vue的工厂车间管理系统的设计",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -337794881375779593,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot170图书电子商务网站的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3223285882415722151,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot171社区医院管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4809876821228241992,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot172基于springboot的二手车交易系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -476951794412404559,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot173疫苗发布和接种预约系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6712371285721057279,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot174基于springboot的疾病防控综合系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7590867757266829959,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot175图书管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2658867639090656882,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot176基于Spring Boot的装饰工程管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8667113427180948751,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot177健身房管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4098764022951480645,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot178智能学习平台系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2323372716765672699,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot179基于javaweb的流浪宠物管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4152891226102271100,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot180基于spring boot的医院挂号就诊系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4506792442758349316,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot181基于springboot的乐享田园系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5147043431474955958,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot182基于springboot的网上服装商城",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7665328375708412180,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot183基于java的公寓报修管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1806535350501391897,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot184基于springboot的校园网上店铺的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2260311208861487386,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot185基于vue.js的客户关系管理系统(crm)的设计与实现",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4573126768142744092,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot186人格障碍诊断系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2842923004201099208,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot187社区养老服务平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2890506924618094027,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot188基于spring boot的校园商铺管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4468205077902895862,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot189基于SpringBoot电商平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1296631734643914641,
+    "category": "02-93套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot190基于springboot框架的工作流程管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1038786356621689450,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot191教师工作量管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 772446484301328440,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot192中国陕西民俗网",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7797888716860225214,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot193基于SpringBoot的秒杀系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4176060587380564893,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot194基于springboot的医药管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -9094260865261115633,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot195文理医院预约挂号系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 788752080547540711,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot196高校教师科研管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7157018964975724952,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot197基于springboot的毕业设计系统的开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1027415471108390713,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot198基于springboot的智能家居系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6576271825729798642,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot199疫情打卡健康评测系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5377943949269625315,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot200个人博客系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2644696885251862366,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot201基于SpringBoot的论坛系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2158256030955087741,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot202善筹网（众筹）前后台实现设计",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -9102012953576205296,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot203医疗挂号管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -137281022683142509,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot204在线考试系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1407448429846640920,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot205大学生智能消费记账系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4008638108953540161,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot206基于SpringBoot的农商对接系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8390355821521719532,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot207基于springboot的实习管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2972771010823257782,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot208基于springboot物流管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3153439843396368231,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot209基于web的大学生一体化服务平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3101384570297705371,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot210基于Springboot开发的精简博客系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4784441293342531841,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot211基于springboot医疗报销系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 816632433494037075,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot212球队训练信息管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -424718007649611968,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot213大学生心理健康管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8622858118720140003,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot214基于springboot的多媒体素材库的开发与应用",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2756246209418704451,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot215基于springboot技术的美食烹饪互动平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2927894626872069141,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot216新闻资讯系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2849376974720251451,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot217志同道合交友网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1803038705510105998,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot218基于SpringBoot的医院药品管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8152976111532389724,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot219基于SpringBoot的网络海鲜市场系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2470459059363551861,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot220基于SpringBoot+Vue的周边游平台个人管理模块的设计与实现",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8284541678890912121,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot221酒店管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1128921616157132064,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot222学生网上选课系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1848646508627918971,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot223基于springboot的信息技术知识竞赛系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8270793780746985630,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot223基于springboot的信息技术知识赛系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7122491834134298249,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot224基于springboot搭建的疫情管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3534769815658386923,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot225基于springBoot政府管理的系统设计",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2363300783632044610,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot226经方药食两用服务平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1544392122983148625,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot227旅游管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3527121122255107956,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot228高校教师电子名片系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -727938526544733468,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot229基于Spring Boot的企业员工薪酬关系系统的设计",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8027363347595543739,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot230基于Spring Boot在线远程考试系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1999740762860954481,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot231基于SpringBoot+Vue的乡政府管理系统",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8668413188593043872,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot232青年公寓服务平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3565857424744690567,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot233大学生就业需求分析系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1767032618691859972,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot234基于Spring Boot的疗养院管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8640579729146795878,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot235基于SpringBoot的房屋交易平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4124904156520054658,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot236基于springboot在线课程管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3282170662895412901,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot237毕业设计成绩管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8689439201275883995,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot238光影视频",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3193894232586062142,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot239华府便利店信息管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -9143271838253220875,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot240基于Spring boot的名城小区物业管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2997829996069372911,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot241基于SpringBoot+Vue的电商应用系统的设计与实现",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4917011130466285337,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot242基于SpringBoot的失物招领平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3961820399901048870,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot243基于SpringBoot的小学生身体素质测评管理系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -142987555692367214,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot244基于SpringBoot和VUE技术的智慧生活商城系统设计与实现",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5263379770032581278,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot245科研项目验收管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4530434271183202130,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot246老年一站式服务平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6369274164543205870,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot247人事管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5069697860297199818,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot248校园资产管理",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 740860178415954198,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot249在线互动学习网站设计",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3151466780743050915,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot250智慧校园之家长子系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1365078481422061008,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot251基于springboot-vue的毕业论文管理系统",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7404679153662988504,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot252基于Springboot和vue的餐饮管理系统的设计与实现",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2687980212622060374,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot253社区养老服务系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1840636839363407911,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot254小区团购管理",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -977778407221847978,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot255基于spring boot的疫情信息管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4362249843555155153,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot256基于springboot+vue的游戏交易系统",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1172296869678346898,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot257基于SpringBoot的中山社区医疗综合服务平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5033760398310183939,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot259交通管理在线服务系统的开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 591361031384463968,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot260火锅店管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6927894557172880038,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot261高校专业实习管理系统的设计和开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2754981152488404205,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot262基于spring boot的小型诊疗预约平台的设计与开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 55736529300518716,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot263校园组团平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1833148330093718931,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot264基于JAVA的民族婚纱预定系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7489884517047941830,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot265基于Spring Boot的库存管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7761975816522370725,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot266基于Web的农产品直卖平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1927301728089006858,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot267大学生科创项目在线管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4600958753160634745,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot268码头船只货柜管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2759733768493910148,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot269反欺诈平台的建设",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6656636694287323007,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot270基于JAVA的社团管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5512301005119085183,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot271制造装备物联及生产管理ERP系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2519731013377769771,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot272车辆管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3293481355890434855,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot273基于JavaWeb的宠物商城网站设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 625661827259139266,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot274基于web的电影院购票系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5687578621854313748,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot275毕业就业信息管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8339635135776206262,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot276基于JS的个人云盘管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4844552987972265988,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot277流浪动物管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 608403996701483232,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot278基于JavaWeb的鲜牛奶订购系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2704770591042329439,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot279基于javaweb的影院订票系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6790065482542275874,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot280基于WEB的旅游推荐系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4742533103959464287,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot281旅游网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4138766005292121034,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot282基于web的机动车号牌管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5188666404806367687,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot283图书商城管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4561591150788856142,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot284基于HTML5的问卷调查系统的设计与实现",
+    "tags": [
+      "SpringBoot",
+      "HTML5"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8544440573011448659,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot285基于Java web的药店管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7814572261668208919,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot286入校申报审批系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2089374641612920268,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot287基于javaEE的校园二手书交易平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4839083193276475645,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot288基于BS的老年人体检管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8896712167680108118,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot289基于JAVA的房地产销售管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2133510788187132426,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot290教学资料管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 9041250916878286238,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot291校园疫情防控系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1679327345318504079,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot292校园外卖服务系统设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8182618169195522972,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot293基于javaweb的学生用品采购系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8866385051678152291,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot294基于java的火车票订票系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2575380242021089083,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot295基于Mysql的商业辅助决策系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7989631324003922428,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot296基于个性化定制的智慧校园管理系统设计与开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6403345509277133866,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot297毕业生实习与就业管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4579224945520772832,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot298计算机学院校友网",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1852913449205039353,
+    "category": "03-109套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot299基于Java的家政服务平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1365078481422061008,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot251基于springboot-vue的毕业论文管理系统",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7404679153662988504,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot252基于Springboot和vue的餐饮管理系统的设计与实现",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2687980212622060374,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot253社区养老服务系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1840636839363407911,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot254小区团购管理",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -977778407221847978,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot255基于spring boot的疫情信息管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4362249843555155153,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot256基于springboot+vue的游戏交易系统",
+    "tags": [
+      "Vue",
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1172296869678346898,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot257基于SpringBoot的中山社区医疗综合服务平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8745019956268051677,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot258流浪动物救助网站",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5033760398310183939,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot259交通管理在线服务系统的开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 591361031384463968,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot260火锅店管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6927894557172880038,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot261高校专业实习管理系统的设计和开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2754981152488404205,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot262基于spring boot的小型诊疗预约平台的设计与开发",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 55736529300518716,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot263校园组团平台",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1833148330093718931,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot264基于JAVA的民族婚纱预定系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7489884517047941830,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot265基于Spring Boot的库存管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7761975816522370725,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot266基于Web的农产品直卖平台的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1927301728089006858,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot267大学生科创项目在线管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4600958753160634745,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot268码头船只货柜管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2759733768493910148,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot269反欺诈平台的建设",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6656636694287323007,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot270基于JAVA的社团管理系统的设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5512301005119085183,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot271制造装备物联及生产管理ERP系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2519731013377769771,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot272车辆管理系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3293481355890434855,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot273基于JavaWeb的宠物商城网站设计与实现",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 625661827259139266,
+    "category": "04-80套-22-SpringBoot",
+    "short_category": "SpringBoot",
+    "name": "springboot274基于web的电影院购票系统",
+    "tags": [
+      "SpringBoot"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5687729226325264534,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin178澡堂预订的微信小程序的设计和利用ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2355699309272023506,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin179基于微信小程序的在线选课系统springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1982852859573977363,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin180奶茶点餐小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3736290571427094791,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin181基于微信小程序的乡村政务服务系统springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2091030025475789146,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin182“黄师日报”平安小程序springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3024724232621368543,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin183基于小程序宿舍报修系统的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1568213344444014126,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin184“村游网”系统的微信小程序开发ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1852429954953359179,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin185餐厅点餐微信小程序springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8190301324985291311,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin186基于vue的订餐小程序springboot",
+    "tags": [
+      "Vue",
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7403852633141558248,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin187社区二手物品交易小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4228181458682975437,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin188中国剪纸微信小程序的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5160476042391934991,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin189基于微信的高校教务管理系统设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5059160188380467570,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin190在线厨艺平台的设计与实现微信小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 9103396266699280800,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin191基于微信小程序的小区管理系统的设计ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 651331215434958181,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin192即时空教室查询小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7414814747175937077,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin193基于微信小程序的社区垃圾回收管理系统ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5764966496628220228,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin194高校学习助手小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 9003111324811811614,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin195基于微信平台的购物商城小程序开发ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6080952511041041146,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin196运动健康小程序SpringBoot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6846343858285418975,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin197基于JAVA的微信食堂线上订餐小程序的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2550670737313318439,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin198学生管理系统springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3326549821024907761,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin199基于微信小程序的快递管理平台的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2095863764657355491,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin200基于微信小程序的社区车位租赁系统的设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1328585945642831113,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin201基于微信小程序的校园保修系统springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8125468172401551835,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin202便捷饭店点餐小程序的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8717635102604429319,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin203婚庆摄影小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5678502267536965554,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin204基于微信的疫情期间学生请假与销假系统的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5425363054924161623,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin205微信小程序线上教育商城ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4677959914891660657,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin206校园顺路代送微信小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1506617361823628185,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin207课堂考勤微信小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4278936225532986073,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin208基于微信小程序的二手物品交易平台ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2267573670252195967,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin209基于微信小程序投票评选系统的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4220029531041288872,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin210微信小程序自助点餐系统springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1257788328559495919,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin211校园约拍微信小程序设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4755105335587910672,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin212答题小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -483943072885016316,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin213基于微信小程序的考研资料分享系统的设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6642582108230361930,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin214基于微信小程序的水果销售系统的设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2753306807206049264,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin215基于微信小程序疫苗预约系统+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3254766420667783765,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin216基于微信的垃圾分类小程序springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3416830601408545242,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin217基于微信小程序的学生签到系统设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6502876479890053614,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin218“校园资料分享微信小程序”的设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7559747099510944564,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin219微信小程序评分小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3543423213139114561,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin220英语互助小程序springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -8424773023446256879,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin221新冠肺炎服务预约微信小程序的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 697578763687077905,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin222基于微信小程序的在线学习系统springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3382768264222167034,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin223球馆预约系统ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8721181048962365888,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin224基于java的餐厅点餐系统微信小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7564435221626515430,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin225基于微信小程序的汽车销售系统的设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5775355614319708649,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin226基于微信小程序的新生报到系统的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 830727336977675128,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin227基于微信小程序的社区门诊管理系统php",
+    "tags": [
+      "微信小程序",
+      "PHP"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5278768907462351848,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin228基于微信小程序的走失人员的报备平台设计ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7029977586906544729,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin229学生资助在线管理软件开发微信小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -831152572570185203,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin230疫苗预约小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4617711596286561171,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin231速达物流信息查询微信小程序设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5782278724554483535,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin232微信小程序基于BS模式的学生实习与就业管理系统设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4895857405441363670,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin233微信小程序研学自习室选座与门禁系统的实现与开发springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1899992123595125865,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin234基于微信小程序的中国各地美食推荐平台的设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1902183366917226092,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin235基于微信小程序点餐系统的设计ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5698906529696499934,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin236小程序疫苗预约网站系统ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7115175370136705696,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin237基于微信小程序的医院挂号预约系统ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5512047299623271332,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin238基于微信小程序的校园二手交易平台ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7900370649538570643,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin239基于微信小程序高校订餐系统的设计与开发ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6112273262715656850,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin240基于微信小程序的校园综合服务平台ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -28937822962409142,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin241外卖小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -968579015017893294,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin242基于微信小程序的外卖点餐系统设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6310010194694385573,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin243垃圾分类小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3174288968586111886,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin244教育培训微信小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1622151238830341898,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin245食堂校园预约就餐小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2328796392024188346,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin246微信小程序书店springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6443707017372361526,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin247微信小程序的高校党费收缴系统ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 478441837346749498,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin248食堂订餐小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2812244571875625254,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin249微信社团小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6787073755733376582,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin250基于微信小程序的跳蚤市场设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6113934321340955490,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin251流浪动物救助微信小程序springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -2021609251179170324,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin252基于微信小程序的网约巴士订票平台的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8354829315655527417,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin253懂球短视频微信小程序SpringBoot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1061725878438925571,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin254基于微信小程序的社团活动助手php",
+    "tags": [
+      "微信小程序",
+      "PHP"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3930443085916207830,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin255基于微信小程序的手机商城的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3769332808637963506,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin256基于springboot汽车维修管理系统微信小程序springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3909882781993147382,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin257基于大学生社团活动管理的微信小程序的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7969362027124833802,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin258基于微信小程序的课堂点名系统springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5123436809805240251,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin259基于微信小程序的医院综合服务平台的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1510374254888873446,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin260微信平台签到系统的设计与实现springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7513820600934698725,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin261学习资料库小程序设计ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5574732963441433180,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin262高校校园交友微信小程序springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4645907573644749688,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin263微信小程序跑腿平台的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1445887265750767360,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin264小程序插画共享平台ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4696875590025625939,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin265基于微信小程序的小说阅读系统ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1508548965570913277,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin266基于微信小程序的在线点餐（堂食）平台的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -3790770191242928365,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin267基于微信平台的报刊订阅小程序的设计与实现ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1617280503835203239,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin268微信点餐系统小程序ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 350991291172663130,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin269基于vue的青少年科普教学系统平台springboot",
+    "tags": [
+      "Vue",
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7522727810693755989,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin270客运自助售票小程序的设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4696647513276687449,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin271松江大学城就餐推荐系统设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 6068095385360141255,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin272基于微信小程序的医院体检管理系统+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5881221208665152946,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin273基于微信小程序的刷题系统的设计与实现+springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7384265861550041616,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin274车视界小程序+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -7742102833408105483,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin275微信智能招聘小程序设计+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1039340123131919514,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin276优选驾考小程序+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 8137656795216465217,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin277微信小程序医院挂号系统+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -1985073372547706101,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin278基于微信小程序的体育课评分系统+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4692688674291449891,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin279基于微信小程序的场地预约设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2592052921091917448,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin280游戏账号交易微信小程序+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5818736809978238902,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin281小程序国产动漫论坛+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 2490098471922567091,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin282宠物店商城小程序设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5428214601196051607,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin283基于微信小程序校园订餐的设计与开发+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7782096727016450797,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin284同城家政服务+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4680331330845164301,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin285基于微信平台健身小助手小程序的设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 4091751543563193015,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin286基于SSM框架的童装购买平台微信小程序+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 9163764177607830743,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin287火锅店点餐系统的设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 7052652249451848686,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin288基于微信小程序的宠物寄养平台的设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 5306460291773465378,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin289基于微信小程序的大学生科技竞赛管理系统的设计与实现+springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 1982657199782384316,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin290懒人美食帮+springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3569918700958174795,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin291基于微信小程序的家政服务预约系统的设计与实现+php",
+    "tags": [
+      "微信小程序",
+      "PHP"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6244818554889467626,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin292基于微信小程序的民宿短租系统设计与实现+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": 3674231804482978648,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin293基于vue和微信小程序的校园自助打印系统+springboot",
+    "tags": [
+      "Vue",
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -5600377992751544581,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin294网络安全科普系统开发与设计+springboot",
+    "tags": [
+      "SpringBoot",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -4662279535637979111,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin295基于ssm选课系统+ssm",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  },
+  {
+    "id": -6946957990764741583,
+    "category": "11-148套-22-小程序",
+    "short_category": "小程序",
+    "name": "weixin296自驾游拼团",
+    "tags": [
+      "SSM",
+      "微信小程序"
+    ],
+    "link": "https://pan.baidu.com/s/1mQ7OGPbTh6-27NFKHU49_A"
+  }]
